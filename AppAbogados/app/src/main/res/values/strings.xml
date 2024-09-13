@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppAbogados</string>
+    <string name="Casos">Casos</string>
+    <string name="Clientes">Clientes</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Abogado">Abogado</string>
+</resources>

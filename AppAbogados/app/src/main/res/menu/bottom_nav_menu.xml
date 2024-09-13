@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/casos"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/Casos" />
+
+    <item
+        android:id="@+id/clientes"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/Clientes" />
+
+    <item
+        android:id="@+id/agenda"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/Agenda" />
+
+    <item
+        android:id="@+id/abogado"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/Abogado" />
+
+</menu>
